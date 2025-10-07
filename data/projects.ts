@@ -32,7 +32,7 @@ export const projectData: PortfolioCategory[] = [
                 title: 'Personal Portfolio',
                 description: 'The very website you are browsing now, built with React and Framer Motion.',
                 imageUrls: [
-                    'https://placehold.co/800x600/101010/F1D500?text=Portfolio+Screenshot+1',
+                    'https://github.com/ArenduC/arendu/blob/main/assets/image/reactDIT01.svg',
                     'https://placehold.co/800x600/101010/F1D500?text=Mobile+View',
                     'https://placehold.co/800x600/101010/F1D500?text=Project+Showcase',
                 ],
