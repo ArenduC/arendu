@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 import React, { useRef, useEffect, useState } from 'react';
 
@@ -203,3 +204,5 @@ const AnimatedBackground: React.FC<AnimatedBackgroundProps> = ({ mousePos }) => 
 };
 
 export default AnimatedBackground;
+=======
+>>>>>>> 7a7e91e6a9b327ff69a1ebed81de6f8b5ec03378
